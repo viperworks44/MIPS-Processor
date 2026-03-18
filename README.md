@@ -1,4 +1,4 @@
-# MIPS_Processor
+# MIPS-Processor
 ## MIPS 5-Stage Pipeline CPU (Verilog)
 
 This project implements a 32-bit MIPS processor using a 5-stage pipeline architecture in Verilog.
